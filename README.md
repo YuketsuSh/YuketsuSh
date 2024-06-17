@@ -1,7 +1,7 @@
 <h1 align="center">Hello There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> </h1>
 <div align="center">
 
-### :smiley_cat: I am a FullStack Web Developer
+### :smiley_cat: I am a FullStack Developer
 
 ### so, curently this is my first try making my readme, hope you like it 😄
 
