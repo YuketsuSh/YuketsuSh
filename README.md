@@ -1,24 +1,68 @@
-<h1 align="center">Hello There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> </h1>
+<h1 align="center">Welcome to My Digital Realm! 🌌</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60">
+</p>
+
 <div align="center">
 
-### :smiley_cat: I am a FullStack Developer
+### 👾 FullStack Developer | Tech Enthusiast | Always Learning
 
-### so, curently this is my first try making my readme, hope you like it 😄
+I'm Yuketsu, a passionate FullStack developer who thrives in building creative solutions across various technologies. Whether it's crafting seamless front-end experiences or ensuring robust backend performance, I love coding up something exciting.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## By the way here are some of my statistics 🚀
-<img height= "150" src="https://gitstats.velyorix.com/?username=YuketsuSh&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
-<img height= "250" src="https://gitstats.velyorix.com/top-langs/?username=YuketsuSh&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-------
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.gradle.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="[https://www.gradle.org](https://fr.vuejs.org/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="[https://www.gradle.org](https://fr.vuejs.org/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></p>
-  
-Last Edited on: 10-09-24
 </div>
+
+---
+
+<div align="center">
+  <h2>🚀 Projects | Contributions</h2>
+  <p>I love collaborating on open-source projects, building innovative tools, and solving real-world challenges. Here are a few projects I'm currently involved in:</p>
+
+  - [MicroManage](https://github.com/YuketsuSh/MicroManage) - A microservice management system with Docker integration, providing full control over microservices and an easy-to-use interface.
+  - [WaveFrame](https://github.com/YuketsuSh/WaveFrame) - A cutting-edge animation library that supports custom animations, advanced timelines, and interactive animations, outperforming traditional libraries like anime.js.
+  - [License Server](https://github.com/YuketsuSh/license-server) - A license management system that securely handles license generation, verification, and expiration for software.
+
+  *Feel free to explore the repositories and contribute!*
+</div>
+
+---
+
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+  <p>I'm proficient in a wide range of technologies:</p>
+
+  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-3.0-green?style=for-the-badge&logo=vue.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-v16.0-green?style=for-the-badge&logo=node.js&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-v8.0-blue?style=for-the-badge&logo=php&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge&logo=docker&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-v8.0-orange?style=for-the-badge&logo=mysql&logoColor=white)
+
+  <p>And many more tools and frameworks that fuel my projects!</p>
+</div>
+
+---
+
+<div align="center">
+  <h2>✨ GitHub Stats</h2>
+  <p>All stats include private repositories and contributions:</p>
+  <img height="150" src="https://gitstats.velyorix.com/?username=YuketsuSh&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="150" src="https://gitstats.velyorix.com/top-langs/?username=YuketsuSh&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
+</div>
+
+---
+
+<div align="center">
+  <h2>💬 Let's Connect!</h2>
+  <p>If you want to collaborate, discuss projects, or just say hi:</p>
+  <a href="https://discordapp.com/users/968431686348054588" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Yuketsu-blue?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="mailto:contact@velyorix.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-contact%40velyorix.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+---
+
+<p align="center">Last Edited on: 10-09-24</p>
