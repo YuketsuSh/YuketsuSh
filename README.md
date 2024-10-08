@@ -8,9 +8,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## By the way here are some of my statistics 🚀
-<img height= "150" src="https://github-readme-stats.vercel.app/api?username=YuketsuSh&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
-<img height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=YuketsuSh&theme=tokyonight" />
-<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuketsuSh&layout=compact&theme=tokyonight"/>
+<img height= "150" src="https://gitstats.velyorix.com/?username=YuketsuSh&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
+<img height= "250" src="https://gitstats.velyorix.com/top-langs/?username=YuketsuSh&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
@@ -21,5 +20,5 @@
   <a href="[https://www.gradle.org](https://fr.vuejs.org/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
   <a href="[https://www.gradle.org](https://fr.vuejs.org/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></p>
   
-Last Edited on: 13/01/2024
+Last Edited on: 10-09-24
 </div>
