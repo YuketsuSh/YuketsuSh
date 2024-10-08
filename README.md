@@ -18,7 +18,7 @@ I'm Yuketsu, a passionate FullStack developer who thrives in building creative s
   <h2>🚀 Projects | Contributions</h2>
   <p>I love collaborating on open-source projects, building innovative tools, and solving real-world challenges. Here are a few projects I'm currently involved in:</p>
 
-  - [HTTPSpy](https://github.com/YuketsuSh/HttpSpy) - CLI tool for real-time monitoring and logging of HTTP/HTTPS requests with support for filtering, proxying, and log export in JSON, CSV, and text formats.
+  - [HTTPSpy](https://github.com/YuketsuSh/HttpSpy) - A powerful HTTP request monitoring tool, providing insights into requests and responses in real-time.
   - [WaveFrame](https://github.com/YuketsuSh/WaveFrame) - A cutting-edge animation library that supports custom animations, advanced timelines, and interactive animations, outperforming traditional libraries like anime.js.
   - [License Server](https://github.com/YuketsuSh/license-server) - A license management system that securely handles license generation, verification, and expiration for software.
 
