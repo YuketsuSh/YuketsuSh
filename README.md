@@ -67,4 +67,4 @@ I'm Yuketsu, a passionate FullStack developer who thrives in building creative s
 
 ---
 
-<p align="center">Last Edited on: 10-09-24</p>
+<p align="center">Last Edited on: 10-20-24</p>
