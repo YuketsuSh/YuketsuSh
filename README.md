@@ -33,7 +33,7 @@ I'm Yuketsu, a passionate FullStack developer who thrives in building creative s
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=for-the-badge&logo=javascript&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/Vue.js-3.0-green?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-v16.0-green?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-v22.0-green?style=for-the-badge&logo=node.js&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-v8.0-blue?style=for-the-badge&logo=php&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge&logo=docker&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-v8.0-orange?style=for-the-badge&logo=mysql&logoColor=white)
