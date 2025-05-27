@@ -46,7 +46,7 @@ I'm Yuketsu, a passionate FullStack developer who thrives in building creative s
 <div align="center">
   <h2>✨ GitHub Stats</h2>
   <p>All stats include private repositories and contributions:</p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YuketsuSh&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="150" src="https://awesome-github-stats.azurewebsites.net/user-stats/YuketsuSh?cardType=level&theme=tokyonight&preferLogin=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuketsuSh&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
   <br />
   <img height="250" src="https://github-profile-trophy.vercel.app/?username=YuketsuSh&theme=onedark" />
@@ -67,4 +67,4 @@ I'm Yuketsu, a passionate FullStack developer who thrives in building creative s
 
 ---
 
-<p align="center">Last Edited on: 10-20-24</p>
+<p align="center">Last Edited on: 05-27-25</p>
